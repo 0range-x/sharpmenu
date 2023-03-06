@@ -1,6 +1,0 @@
-C:\Users\xrangezhang\Desktop\工具\startmenu\startmenu\bin\Release\startmenu.exe.config
-C:\Users\xrangezhang\Desktop\工具\startmenu\startmenu\bin\Release\startmenu.exe
-C:\Users\xrangezhang\Desktop\工具\startmenu\startmenu\obj\Release\startmenu.csproj.AssemblyReference.cache
-C:\Users\xrangezhang\Desktop\工具\startmenu\startmenu\obj\Release\startmenu.csproj.SuggestedBindingRedirects.cache
-C:\Users\xrangezhang\Desktop\工具\startmenu\startmenu\obj\Release\startmenu.csproj.CoreCompileInputs.cache
-C:\Users\xrangezhang\Desktop\工具\startmenu\startmenu\obj\Release\startmenu.exe
